@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "M.F.A."
+  course = "M.F.A. in Graphic Design"
   institution = "Yale School of Art"
   year = 2025
 
