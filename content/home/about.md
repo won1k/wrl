@@ -17,14 +17,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "JD"
-  institution = "Yale Law School"
-  year = 2024
-
-[[education.courses]]
   course = "MFA"
   institution = "Yale School of Art"
-  year = 2024
+  year = 2025
+
+[[education.courses]]
+  course = "JD"
+  institution = "Yale Law School"
+  year = 2023
 
 [[education.courses]]
   course = "AB"
