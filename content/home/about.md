@@ -30,6 +30,11 @@ weight = 5
   course = "M.S. in Mathematics"
   institution = "New York University"
   year = 2019
+  
+  [[education.courses]]
+  course = "A.M. in Statistics"
+  institution = "Harvard University"
+  year = 2017
 
 [[education.courses]]
   course = "A.B. in Mathematics"
