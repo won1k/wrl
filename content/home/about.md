@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Professor of Fine Arts, Yale University",
     "Artist-in-Residence, Grand Central Atelier",
     "Resident Studies, Grand Central Atelier",
     "Certificate Program, The Art Students League"
