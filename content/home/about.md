@@ -8,16 +8,17 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[experience]
-  experience = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+[interests]
+  interests = [
+    "Professor of Fine Arts, Yale University",
+    "Artist-in-Residence, Grand Central Atelier",
+    "Resident Studies, Grand Central Atelier",
+    "Certificate Program, The Art Students League"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Core Studies and Residency"
+  course = "Core Studies"
   institution = "Grand Central Atelier"
   year = 2028
 [[education.courses]]
