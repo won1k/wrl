@@ -8,8 +8,8 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
+[experience]
+  experience = [
     "Artificial Intelligence",
     "Computational Linguistics",
     "Information Retrieval"
@@ -17,24 +17,23 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Core Studies and Residency"
+  institution = "Grand Central Atelier"
+  year = 2028
+[[education.courses]]
   course = "M.F.A."
   institution = "Yale School of Art"
-  year = 2025
+  year = 2024
 
 [[education.courses]]
   course = "J.D."
   institution = "Yale Law School"
   year = 2023
-
-[[education.courses]]
-  course = "M.S. in Mathematics"
-  institution = "New York University"
-  year = 2019
   
   [[education.courses]]
   course = "A.M. in Statistics"
   institution = "Harvard University"
-  year = 2017
+  year = 2018
 
 [[education.courses]]
   course = "A.B. in Mathematics"
