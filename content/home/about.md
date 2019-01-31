@@ -11,8 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Artist-in-Residence, Grand Central Atelier",
-    "Resident Studies, Grand Central Atelier",
-    "Certificate Program, The Art Students League"
+    "Instructor, The Art Students League"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,15 +24,11 @@ weight = 5
   course = "Core Studies"
   institution = "Grand Central Atelier"
   year = 2023
-
-[//]: # "[[education.courses]]
-  course = "J.D."
-  institution = "Yale Law School"
-  year = 2023"
   
 [[education.courses]]
   course = "A.M. in Statistics"
   institution = "Harvard University"
+  year = 2018
 
 [[education.courses]]
   course = "A.B. in Mathematics"
