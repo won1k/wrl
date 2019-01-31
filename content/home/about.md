@@ -26,12 +26,12 @@ weight = 5
   year = 2023
   
 [[education.courses]]
-  course = "A.M. in Statistics"
+  course = "A.M."
   institution = "Harvard University"
   year = 2018
 
 [[education.courses]]
-  course = "A.B. in Mathematics"
+  course = "A.B., Mathematics"
   institution = "Harvard University"
   year = 2014
  
