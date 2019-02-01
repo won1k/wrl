@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Rin"
+title = "rin"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,7 +57,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Rin"
+  name = "Rin Lee"
   role = ""
 
   # Organizations/Affiliations.
