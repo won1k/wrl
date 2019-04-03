@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "rin"
+title = "Rin Leon Lee"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,12 +57,12 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Rin Lee"
+  name = "Rin Leon Lee"
   role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Yale School of Art", url = "" } ]
+  organizations = [ { name = "New York Academy of Art", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
